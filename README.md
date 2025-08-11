@@ -1,4 +1,4 @@
-Explanation of each step:
+Explanation of each step
 my_list = [] creates an empty list.
 append() adds elements to the end of the list.
 insert(1, 15) inserts 15 at index 1 (second position, since Python uses 0-based indexing).
